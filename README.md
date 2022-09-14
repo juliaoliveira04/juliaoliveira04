@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Júlia :)
 
-- 🔭 Atualmente estou trabalhando com suporte/front-end
-- 🌱 Estou aprendendo Typescript e NestJS
+- 🔭 Atualmente estou trabalhando com front-end
+- 🌱 Utilizo ReactJS e Liquid/Shopify
 - 😄 Pronomes: ela/dela
 
 <div align="center">
@@ -17,6 +17,7 @@
   <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="SASS"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  <img align="center" alt="Shopify"  src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white"">
 </div>
   
 ##
