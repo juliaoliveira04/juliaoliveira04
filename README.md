@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Júlia :)
 
 - 🔭 Atualmente estou trabalhando com front-end
-- 🌱 Utilizo ReactJS e Liquid/Shopify
+- 🌱 Utilizo Angular/Ionic
 - 😄 Pronomes: ela/dela
 
 <div align="center">
