@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Júlia :)
 
-- 🔭 Atualmente estou trabalhando com front-end
-- 🌱 Utilizo Angular/Ionic
+- 🔭 Atualmente estou trabalhando como fullstack
+- 🌱 Utilizo Angular/Ionic/NodeJS
 - 😄 Pronomes: ela/dela
 
 <div align="center">
