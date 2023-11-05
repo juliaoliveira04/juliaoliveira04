@@ -1,8 +1,10 @@
-### Olá! Meu nome é Júlia :)
+### Hi! I'm Julia :)
 
-- 🔭 Atualmente estou trabalhando como fullstack
-- 🌱 Utilizo Angular/Ionic/NodeJS
-- 😄 Pronomes: ela/dela
+- 👩‍💻 Currently working as a Full-Stack Developer specializing in Ionic, Angular, and Node.js with TypeScript.
+- 🚀 Passionate about tackling coding challenges and crafting amazing user experiences.
+- 💬 Open to collaborations and always seeking professional growth.
+- 🌐 Building the future of web and mobile with code.
+- 🤝 If I can help you, I will help you.
 
 <div align="center">
   <a href="https://github.com/JuliaBOliveira">
