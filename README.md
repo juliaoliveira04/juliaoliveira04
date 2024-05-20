@@ -1,10 +1,10 @@
 ### Hi! I'm Julia :)
 
-- 👩‍💻 Currently working as a Full-Stack Developer specializing in Ionic, Angular, and Node.js with TypeScript.
-- 🚀 Passionate about tackling coding challenges and crafting amazing user experiences.
-- 💬 Open to collaborations and always seeking professional growth.
-- 🌐 Building the future of web and mobile with code.
-- 🤝 If I can help you, I will help you.
+- 👩‍💻 Currently working as a Full-Stack Developer specializing in Ionic, Angular, ReactJs, and Node.js with TypeScript.
+- 🚀 Passionate about solving coding challenges and creating exceptional user experiences.
+- 💬 Always open to collaborations and constantly seeking professional growth.
+- 🌐 Committed to building the future of web and mobile through code.
+- 🤝 If I can help, I’m here for you.
 
 <div align="center">
   <a href="https://github.com/JuliaBOliveira">
