@@ -7,9 +7,9 @@
 - 🤝 If I can help, I’m here for you.
 
 <div align="center">
-  <a href="https://github.com/JuliaBOliveira">
-  <img width="405em" src="https://github-readme-stats.vercel.app/api?username=JuliaBOliveira&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaBOliveira&layout=compact&langs_count=7&theme=gotham"/>
+  <a href="https://github.com/juliaoliveira04">
+  <img width="405em" src="https://github-readme-stats.vercel.app/api?username=juliaoliveira04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveira04&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
 <div style="display: inline_block"><br>
