@@ -13,7 +13,6 @@
   <a href="https://github.com/juliaoliveira04">
     <img width="400em" src="https://github-readme-stats.vercel.app/api?username=juliaoliveira04&show_icons=true&theme=gotham&include_all_commits=true&count_private=true" alt="Julia's GitHub Stats"/>
     <img width="360rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaoliveira04&layout=compact&langs_count=7&theme=gotham" alt="Julia's Top Languages"/>
-    <img align='start' src="https://github-readme-stats.vercel.app/api/wakatime?username=juoliveira04" alt="Julia's Wakatime Stats"/>
   </a>
 </div>  
 
