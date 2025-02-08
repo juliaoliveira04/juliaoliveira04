@@ -3,7 +3,7 @@
 ### About Me  
 - 👩‍💻 Full-Stack Developer specializing in **Angular**, **ReactJs**, and **Node.js** with **TypeScript**.  
 - 💬 Always open to collaborations and constantly seeking professional growth.  
-- 🤝 Feel free to reach out—I'm here to help!  
+- 🤝 Feel free to reach out, I'm here to help!  
 
 ---
 
